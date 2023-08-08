@@ -1,0 +1,8 @@
+[{"No":1,"Role":"Geologist IV","description ":"Phasellus in felis. Donec semper sapien a libero.","permissions":1},
+{"No":2,"Role":"Data Coordinator","description ":"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.","permissions":2},
+{"No":3,"Role":"Physical Therapy Assistant","description ":"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.","permissions":3},
+{"No":4,"Role":"Biostatistician IV","description ":"Fusce consequat. Nulla nisl. Nunc nisl.","permissions":4},
+{"No":5,"Role":"Web Designer III","description ":"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.","permissions":5},
+{"No":6,"Role":"Mechanical Systems Engineer","description ":"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.","permissions":6},
+{"No":7,"Role":"Safety Technician II","description ":"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.","permissions":7},
+{"No":8,"Role":"Electrical Engineer","description ":"Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.","permissions":8}]
